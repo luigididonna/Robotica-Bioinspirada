@@ -1,0 +1,9 @@
+gymnasium[mujoco]
+stable-baselines3
+shimmy>=0.2.1
+imageio
+imageio[ffmpeg]
+tensorboard
+numpy
+matplotlib
+torch
