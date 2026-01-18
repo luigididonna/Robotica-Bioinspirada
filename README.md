@@ -2,6 +2,7 @@
 Estrategias de locomoción ondulatoria en fluidos viscosos mediante Aprendizaje Profundo por Refuerzo (PPO). Utilizando el entorno MuJoCo Swimmer-v5, este proyecto demuestra la capacidad de un agente artificial para aprender patrones de nado eficientes en condiciones de Tabula Rasa, sin modelado cinemático previo.
 
 # Validación Experimental de Robótica Bioinspirada mediante PPO
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luigididonna/Robotica-Bioinspirada/blob/main/Robotica-Bioinspirada.ipynb)
 
 Este repositorio contiene el código fuente utilizado para la validación experimental de estrategias de locomoción bioinspirada en el entorno `Swimmer-v5` (MuJoCo), utilizando el algoritmo *Proximal Policy Optimization* (PPO).
 
